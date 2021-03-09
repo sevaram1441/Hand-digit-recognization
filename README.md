@@ -1,1 +1,1 @@
-# Hand-digit-recognization
+# Hand-digit-recognization_SEVA DON
